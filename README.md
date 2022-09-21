@@ -28,7 +28,9 @@ Activity 5:
 
 Activity 6: 
 
+https://github.com/Ali-Msk/ECE444-F2022-EP
 
 
 Activity 7: 
+
 Activity 8: 
