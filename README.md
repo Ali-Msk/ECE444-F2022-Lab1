@@ -33,4 +33,9 @@ https://github.com/Ali-Msk/ECE444-F2022-EP
 
 Activity 7: 
 
+<img width="538" alt="image" src="https://user-images.githubusercontent.com/29826854/191583434-ecad6d4e-c45f-452a-aeae-76b6921de93a.png">
+
+<img width="737" alt="image" src="https://user-images.githubusercontent.com/29826854/191583493-24013c29-7b91-4bc9-975b-d243772b0f86.png">
+
+
 Activity 8: 
