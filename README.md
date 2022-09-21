@@ -39,3 +39,8 @@ Activity 7:
 
 
 Activity 8: 
+
+<img width="1114" alt="image" src="https://user-images.githubusercontent.com/29826854/191621176-974f09c8-a746-455e-8c4a-ddeee296baec.png">
+
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/29826854/191621314-b25e8651-863d-4cff-ab5b-be1bef6651fa.png">
+
