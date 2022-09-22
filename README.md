@@ -16,6 +16,12 @@ Acitivity 3:
 
 Activity 4: 
 
+https://github.com/nkrama-99/ECE444-F2022-Lab1
+
+![image](https://user-images.githubusercontent.com/29826854/191637968-6f771cd6-18e3-46e5-94be-85202f4f903c.png)
+
+![image](https://user-images.githubusercontent.com/29826854/191637981-17f7403c-515d-4858-b03f-7062e5cf4db2.png)
+
 
 Activity 5: 
 
